@@ -9,7 +9,7 @@ Recommend best Machine Learning models
 Train, evaluate, and deploy selected models
 Visualize insights from structured data
 
-The system integrates:
+The system combines:
 
 Database interaction
 Natural Language Processing
